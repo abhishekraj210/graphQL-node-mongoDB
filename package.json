@@ -1,0 +1,21 @@
+{
+    "name": "garphql_server",
+    "version": "1.0.0",
+    "description": "graphQL server",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4",
+        "mongoose": "^5.4.0",
+        "graphql-yoga": "1.16.7"
+    },
+    "devDependencies": {
+        "nodemon": "^1.18.7"
+    },
+    "author": "",
+    "license": "ISC"
+}
