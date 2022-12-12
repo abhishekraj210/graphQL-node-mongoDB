@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "body-parser": "^1.18.3",
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "mongoose": "^5.4.0",
         "graphql-yoga": "1.16.7"
     },
